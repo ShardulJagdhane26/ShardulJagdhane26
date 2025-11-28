@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Shardul Jagdhane! 👋</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Computer Engineering</h3>
+<h3 align="center">Data Scientist | Machine Learning Enthusiast | Computer Engineer</h3>
 
 <p align="center">
   Based in <strong>Pune, India</strong> 🇮🇳 • 🗣️ English, Hindi, Marathi
   <br>
+  <a href="https://shardul26.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-success?style=flat&logo=netlify" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/sharduljagdhane/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://orcid.org/0009-0001-3956-1054">
-    <img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=flat&logo=orcid" alt="ORCID" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail" alt="Email" />
