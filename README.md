@@ -55,8 +55,3 @@ I am a **4th-year Computer Engineering student** (B.Tech) at **Bharati Vidyapeet
   *Applied multi-model AI to predict mental health outcomes.* [Read Paper](https://bvcoe.bharatividyapeeth.edu/media/pdf/ICRAES-2K25_Proceedings_080725.pdf#page=579)
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShardulJagdhane26&show_icons=true&theme=radical&hide_border=true" alt="Shardul's Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJagdhane26&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
-</p>
