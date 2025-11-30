@@ -46,12 +46,15 @@ I am a **4th-year Computer Engineering student** (B.Tech) at **Bharati Vidyapeet
 
 ---
 
-### 📚 Recent Research & Publications
+### 📚 Research & Publications
 
 - **Efficient Video Data Compression Using Fractal Algorithms**  
-  *Published in ICRAES-2K25 Proceedings.* [Read Paper](https://bvcoe.bharatividyapeeth.edu/media/pdf/ICRAES-2K25_Proceedings_080725.pdf#page=84)
-  
+  *Implemented fast, resolution-independent fractal video compression with major gains in speed and efficiency.* [Read Paper](https://bvcoe.bharatividyapeeth.edu/media/pdf/ICRAES-2K25_Proceedings_080725.pdf#page=84)
+
 - **Computational Psychological Sciences through the eyes of Data Science**  
-  *Applied multi-model AI to predict mental health outcomes.* [Read Paper](https://bvcoe.bharatividyapeeth.edu/media/pdf/ICRAES-2K25_Proceedings_080725.pdf#page=579)
+  *Applied multi-model AI techniques to analyze psychological patterns, predict mental health outcomes, and detect behavioral anomalies.* [Read Paper](https://bvcoe.bharatividyapeeth.edu/media/pdf/ICRAES-2K25_Proceedings_080725.pdf#page=579)
+
+- **AI-Driven Multimodal Framework for Student Engagement Detection**  
+  *Developed an AI-driven multimodal framework fusing visual, audio, and behavioral cues for near-perfect engagement detection using lightweight deep models, attention-based fusion, explainability     (Grad-CAM, SHAP), and Green AI techniques — currently in the publishing phase*.
 
 ---
