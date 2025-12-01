@@ -4,7 +4,7 @@
 <p align="center">
   Based in <strong>Pune, India</strong> 🇮🇳 • 🗣️ English, Hindi, Marathi
   <br>
-  <a href="https://shardul26.netlify.app/">
+  <a href="https://shardul26.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-success?style=flat&logo=netlify" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sharduljagdhane/">
@@ -41,8 +41,8 @@ I am a **4th-year Computer Engineering student** (B.Tech) at **Bharati Vidyapeet
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**Sun Grid**](https://sungrid26.netlify.app/) | A complete solar irradiance prediction system deployed with an interactive dashboard. | `XGBoost` `Flask` `Meteorological Data` |
-| [**Toxinator**](https://toxinator.netlify.app/) | Comment behavior classifier detecting 6 types of toxicity with **92.8% precision**. | `BiLSTM` `Gemini API` `NLP` |
+| [**Sun Grid**](https://sungrid-tau.vercel.app/) | A complete solar irradiance prediction system deployed with an interactive dashboard. | `XGBoost` `Flask` `Meteorological Data` |
+| [**Toxinator**](https://toxinator.vercel.app/) | Comment behavior classifier detecting 6 types of toxicity with **92.8% precision**. | `BiLSTM` `Gemini API` `NLP` |
 
 ---
 
